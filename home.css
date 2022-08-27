@@ -20,6 +20,9 @@
   transform: scale(1.02);
 }
 
+.special-ul {
+  padding-left: 10px;
+}
 .header-header {
   top: 0px;
   left: auto;
